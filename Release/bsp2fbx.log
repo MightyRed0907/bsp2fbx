@@ -1,0 +1,11 @@
+﻿  BSP2FBX.cpp
+E:\PROJECTS\VS_Projects\bsp2fbx\BSP2FBX.cpp(58,51): warning C4018: '<': signed/unsigned mismatch
+  BSPLoader.cpp
+E:\PROJECTS\VS_Projects\bsp2fbx\BSPLoader.cpp(100,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\PROJECTS\VS_Projects\bsp2fbx\BSPLoader.cpp(105,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\PROJECTS\VS_Projects\bsp2fbx\BSPLoader.cpp(110,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 578 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  bsp2fbx.vcxproj -> E:\PROJECTS\VS_Projects\bsp2fbx\Release\bsp2fbx.exe

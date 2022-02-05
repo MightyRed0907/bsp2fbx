@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 //---------------------------------------------------------------------
-BSP2FBX::BSP2FBX()
+BSP2FBX::BSP2FBX() 
 {
 	m_bspLoader = nullptr;
 	m_fbxManager = FbxManager::Create();
